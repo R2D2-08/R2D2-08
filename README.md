@@ -9,7 +9,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 
 ## 📌 My Projects
-🚀 [NeRF Implementation](https://github.com/R2D2-8/NeRF) - Custom-built NeRF pipeline.  
+🚀 [NeRF Implementation](https://github.com/R2D2-08/NeRF) - Custom-built NeRF pipeline.  
 🛸 [CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
 
 ## 🌐 Portfolio
