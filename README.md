@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Omar
+# 👋 Hello, I'm R2D2
 
 ## 🚀 About Me
 💡 Passionate about Computer Science, AI, and problem-solving.  
