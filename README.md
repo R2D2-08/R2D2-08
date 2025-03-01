@@ -1,5 +1,7 @@
 # 👋 Hello, I'm R2D2
 
+I am currently in my second year studying Computer Science and Engineering at the National Institute of Technology Calicut
+
 ## 🚀 About Me
 💡 Passionate about Computer Science, AI, and problem-solving.  
 📖 Learning **C++, JavaScript, and a bit of backend development**.  
