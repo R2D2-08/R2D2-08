@@ -21,4 +21,4 @@ I am currently in my second year studying Computer Science and Engineering at th
 
 ## 🌐 Portfolio
 🎨 [Personal Portfolio](https://portfolio-lac-tau-56.vercel.app/) - A collection of my projects, skills, and thoughts on technology.  
-📜 [Blog](https://portfolio-lac-tau-56.vercel.app/) - Documenting my journey.  
+📜 [Blog](https://blog-beta-murex-91.vercel.app/) - Documenting my journey.  
