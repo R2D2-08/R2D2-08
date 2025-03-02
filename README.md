@@ -16,7 +16,7 @@ I am currently in my second year studying Computer Science and Engineering at th
 
 
 ## 📌 My Projects and additonal work
-🚀 [NeRF Implementation](https://github.com/R2D2-08/NeRF) - Custom-built NeRF pipeline.  
+🚀 [NeRF Implementation](https://nerfsite.vercel.app/) - Custom-built NeRF pipeline.  
 🛸 [CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
 🎲 [GPT-2](https://gptsite-six.vercel.app/) - Implementation of GPT-2 from scratch 
 
