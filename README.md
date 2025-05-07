@@ -1,12 +1,12 @@
-# 👋 Hello, I'm R2D2
+# Hello
 
 I am currently in my second year studying Computer Science and Engineering at the National Institute of Technology Calicut
 
-## 🚀 About Me
-💡 Passionate about Computer Science, AI, and problem-solving.  
-📖 Learning **C++, JavaScript, and a bit of backend development**.  
+## About Me
+Passionate about Computer Science, AI, and problem-solving.  
+Learning **C++, JavaScript, and a bit of backend development**.  
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
@@ -15,11 +15,12 @@ I am currently in my second year studying Computer Science and Engineering at th
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?logo=huggingface&logoColor=white&style=flat-square)
 
 
-## 📌 My Projects and additonal work
-🚀 [NeRF Implementation](https://nerfsite.vercel.app/) - Custom-built NeRF pipeline.  
-🛸 [CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
-🎲 [GPT-2](https://github.com/R2D2-08/GPT2) - Implementation of GPT-2 from scratch 
+## Projects
+[Turing machines package](https:://github.com/R2D2-08/turmachpy) - Custom package for simulating a variety of Turing machines.
+[NeRF Implementation](https://nerfsite.vercel.app/) - Custom-built NeRF pipeline.  
+[CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
+[Mini-library](https://github.com/R2D2-08/minilib) - A custom library to train and run neural networks from scratch 
 
-## 🌐 Portfolio
-🎨 [Personal Portfolio](https://portfolio-lac-tau-56.vercel.app/) - A collection of my projects, skills, and thoughts on technology.  
-📜 [Blog](https://blog-beta-murex-91.vercel.app/) - Documenting stuff.  
+## Stuff
+[Stuff](https://stuffaboutme.vercel.app/).  
+[Archive](https://archivezzzs.vercel.app/).  
