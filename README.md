@@ -1,5 +1,3 @@
-# Hello
-
 I am a student studying Computer Science and Engineering at the National Institute of Technology Calicut.
 
 ## Technologies & Tools
