@@ -14,8 +14,11 @@ I am a student studying Computer Science and Engineering at the National Institu
 ## Projects
 
 [Turing machines package](https:://github.com/R2D2-08/turmachpy) - Custom package for simulating a variety of Turing machines.
+
 [NeRF Implementation](https://nerfsite.vercel.app/) - Custom-built NeRF pipeline.  
+
 [CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
+
 [Mini-library](https://github.com/R2D2-08/minilib) - A custom library to train and run neural networks from scratch 
 
 ## Stuff
