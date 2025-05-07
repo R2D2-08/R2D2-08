@@ -12,8 +12,8 @@ Hello, I am a student studying Computer Science and Engineering at the National 
 
 [Turing machines package](https://github.com/R2D2-08/turmachpy) - Custom package for simulating a variety of Turing machines.
 <br>
-[NeRF Implementation](https://nerfvisualizer.vercel.app/) - Custom-built NeRF pipeline.  
-[CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones efficiently.  
+[NeRF Implementation](https://nerfvisualizer.vercel.app/) - Implementation of NeRF.  
+[CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones.  
 [Mini-library](https://github.com/R2D2-08/minilib) - A custom library to train and run neural networks from scratch 
 
 ## Furthermore
