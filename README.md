@@ -10,6 +10,7 @@ Hello, I am a student studying Computer Science and Engineering at the National 
 
 ## Projects
 
+[Containerised Visual Turing machine simulator](https://github.com/R2D2-08/tursim) - A fully server configured, isolated, containerized and self hosted web-app to visually simulate Turing machines. 
 [Turing machines package](https://github.com/R2D2-08/turmachpy) - Custom package for simulating a variety of Turing machines.
 <br>
 [NeRF Implementation](https://nerfvisualizer.vercel.app/) - Implementation of NeRF.  
