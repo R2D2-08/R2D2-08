@@ -1,6 +1,6 @@
 Hello, I am a student studying Computer Science and Engineering at the National Institute of Technology, Calicut.
 
-## Technologies & Tools
+## Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
@@ -12,11 +12,11 @@ Hello, I am a student studying Computer Science and Engineering at the National 
 
 [Containerised Visual Turing machine simulator](https://github.com/R2D2-08/tursim) - A fully server configured, isolated, containerized and self hosted web-app to visually simulate Turing machines. 
 <br>
-[Turing machines package](https://github.com/R2D2-08/turmachpy) - Custom package for simulating a variety of Turing machines.
+[Turmachpy](https://github.com/R2D2-08/turmachpy) - A custom package to simulate a variety of Turing machines.
 <br>
-[NeRF Implementation](https://nerfvisualizer.vercel.app/) - Implementation of NeRF.  
+[NeRF Implementation](https://nerfvisualizer.vercel.app/) - Implementation of the NeRF architecture.  
 [CNN Drone Guider](https://github.com/R2D2-08/MiniDroneCNN) - CNN-powered navigation system to guide drones.  
 [Mini-library](https://github.com/R2D2-08/minilib) - A custom library to train and run neural networks from scratch 
 
-## Furthermore
+## ..||..
 [Stuff](https://stuffaboutme.vercel.app/) [Archive](https://archivezzzs.vercel.app/)
