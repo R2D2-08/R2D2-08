@@ -8,6 +8,7 @@ Hello, I am a student studying Computer Science and Engineering at the National 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?logo=huggingface&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/docker-257bd6?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 
 ## Projects
 
