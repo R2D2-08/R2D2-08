@@ -7,6 +7,7 @@ Hello, I am a student studying Computer Science and Engineering at the National 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9900?logo=huggingface&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Projects
 
